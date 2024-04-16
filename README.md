@@ -6,15 +6,15 @@
 
 ![Preview](./images/Kiana/bg.jpg)
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/4139479843723018241?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
-
+<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/413947984372301824"></a>
+<!-- [![Discord Presence](https://lanyard.kyrie25.me/api/413947984372301824)](https://discord.com/users/413947984372301824) -->
 
 ### Hi!👋 I'm Yomu 🔰
 
 **Game Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/kiana/Kiana_Over.png"></a>
+<a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/kiana/Kiana_weap.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding and Drawing.
 <br><br>
 
