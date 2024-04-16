@@ -1,13 +1,12 @@
 <div align="center">
-<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&bg=none&frame=none&speed=100&comment=) -->
-<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&l1=00cce6&l2=80f1ff&l3=009eb3&l4=caf9ff&bg=none&frame=none&speed=100&comment=) -->
+
 
 </div>
 
 ![Preview](./images/Kiana/bg3.jpg)
 
 <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/413947984372301824"></a>
-<!-- [![Discord Presence](https://lanyard.kyrie25.me/api/413947984372301824)](https://discord.com/users/413947984372301824) -->
+
 
 ### Hi!👋 I'm Yomu 🔰
 
@@ -40,7 +39,8 @@ People who visit my profile :3.
 
 Hehe~ another cutie has been caught.
 ```
-<!-- <br><br><br><br> -->
+
+
 ## **📫 Contact**
 <a href="https://github.com/NoctLeaflet"><img align="right" width="100" src="./images/Kiana/Kiana_HoFi.png" /></a>
 **Please Contact me on Discord for a quick response:** [Yomu](https://discord.com/users/413947984372301824)
