@@ -4,7 +4,7 @@
 
 </div>
 
-![Preview](./images/Kiana/bg.jpg)
+![Preview](./images/Kiana/bg3.jpg)
 
 <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/413947984372301824"></a>
 <!-- [![Discord Presence](https://lanyard.kyrie25.me/api/413947984372301824)](https://discord.com/users/413947984372301824) -->
