@@ -14,7 +14,7 @@
 **Game Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/kiana/Kiana_weap.png"></a>
+<a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/kiana/Kiana_store.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding and Drawing.
 <br><br>
 
