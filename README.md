@@ -14,7 +14,7 @@
 **Game Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
+<a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/kiana_over.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding and Drawing.
 <br><br>
 
@@ -30,7 +30,7 @@ I'm currently studying software engineering at [Politeknik Negeri Semarang](http
 
 
 
-## **🧋Cutie Counter**
+## **🐾Cutie Counter**
 
 <a href="https://discord.com/users/413947984372301824"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Yomu?theme=rule34"></a>
 <a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/Kiana/Kiana_maes.png"></a>
