@@ -5,7 +5,7 @@
 
 ![Preview](./images/Kiana/bg3.jpg)
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/413947984372301824"></a>
+<a href="https://discord.gg/J6JBkHhJfB"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/413947984372301824"></a>
 
 
 ### Hi!👋 I'm Yomu 🔰
