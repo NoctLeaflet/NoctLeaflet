@@ -1,5 +1,5 @@
 <div align="center">
-![](https://typograssy.deno.dev/api?text=%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D!&l1=9ba4e9&l2=40bbc4&l3=3067a1&l4=30216e&speed=150)
+<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&bg=none&frame=none&speed=100&comment=) -->
 <!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&l1=00cce6&l2=80f1ff&l3=009eb3&l4=caf9ff&bg=none&frame=none&speed=100&comment=) -->
 
 </div>
