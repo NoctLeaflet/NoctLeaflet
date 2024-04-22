@@ -15,6 +15,7 @@
 ## **☕ About me**
 <a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/kiana_over.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding and Drawing.
+<a href="https://discord.gg/J6JBkHhJfB"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/413947984372301824"></a>
 <br><br>
 
 ## **💻 Experience**
