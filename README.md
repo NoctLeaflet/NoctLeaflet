@@ -13,10 +13,11 @@
 **Game Developer and Gamer** 
 
 ## **☕ About me**
+<a href="https://discord.gg/J6JBkHhJfB"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/413947984372301824"></a>
 <a href="https://github.com/NoctLeaflet"><img align="left" width="100" src="./images/kiana_over.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding and Drawing.
 <br><br>
-<a href="https://discord.gg/J6JBkHhJfB"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/413947984372301824"></a>
+
 ## **💻 Experience**
 <a href="https://github.com/NoctLeaflet"><img align="right" width="100" src="./images/Kiana/Kiana_store.png"></a>
 I'm currently studying software engineering at [Politeknik Negeri Semarang](https://web.polines.ac.id/id/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
